@@ -4,7 +4,7 @@
     
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil"  />
 </div>
-<h4 align="left">🚀Would love to connect with different people and collaborate on projects together !</h4>
+<h4 align="left">🚀 I would love to connect with different people and collaborate on projects together !</h4>
 
  
  
