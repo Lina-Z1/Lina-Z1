@@ -3,7 +3,7 @@
 <div align="left">
     
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil"  />
-  https://wakatime.com/api/v1/users/current/stats/{time_range}
+ <img src="https://wakatime.com/api/v1/users/current/stats/{time_range}">
 
 </div>
 <h4 align="left">🚀 I would love to connect with different people and collaborate on projects together !</h4>
