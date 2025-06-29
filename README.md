@@ -1,41 +1,45 @@
- 
 <h2 align="left">Hi There 👋 I'm Lina</h2>
+
 <div align="left">
-    
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil"  />
-  
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil" />
 </div>
-<h4 align="left">🚀 I would love to connect with different people and collaborate on projects together !</h4>
-<br>
-<h>1🚀 Featured Projects</h1>
 
-###<h3>🔥  Spark - Resume & Portfolio Builder  </h3> 
+<h4 align="left">🚀 I love connecting with people and collaborating on exciting projects!</h4>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 Spark - Resume & Portfolio Builder
+A .NET Core MVC app for building and managing resumes/portfolios with AI content generation, live preview, and PDF export. Includes authentication, admin dashboard, and public sharing.
+
+**Technologies Used:**  
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-%235C2D91?style=for-the-badge)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-007ACC?style=for-the-badge)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%2300A67E?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-A .NET Core MVC app for building and managing resumes/portfolios with AI content generation, live preview, and PDF export. Includes authentication, admin dashboard, and public sharing.
-
-🔗 [Live Demo](https://spark-ecavf5e2fahzh0e4.northeurope-01.azurewebsites.net/) &nbsp;&nbsp;💻 [GitHub](https://github.com/Lina-Z1/SPARK)
+🔗 <a href="https://spark-ecavf5e2fahzh0e4.northeurope-01.azurewebsites.net/" target="_blank">Live Demo</a>  
+💻 <a href="https://github.com/Lina-Z1/SPARK" target="_blank">GitHub Repository</a>
 
 ---
 
-###<h3>🎬 Filmo - Movie Database App  </h3>
+### 🎬 Filmo - Movie Database App
+A sleek movie search and exploration app with filters like top-rated, popular, and upcoming. Includes posters, trailers, cast info, and more.
+
+**Technologies Used:**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TMDB API](https://img.shields.io/badge/TMDB%20API-01B4E4?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-A sleek movie search and exploration app with filters like top-rated, popular, and upcoming. Includes posters, trailers, cast info, and more.
+🔗 <a href="https://movie-project-room-8.vercel.app/" target="_blank">Live Demo</a>  
+💻 <a href="https://github.com/202309-EKTA-JO-FSW/movie-project-room-8" target="_blank">GitHub Repository</a>
 
-🔗 [Live Demo](https://movie-project-room-8.vercel.app/) &nbsp;&nbsp;💻 [GitHub](https://github.com/202309-EKTA-JO-FSW/movie-project-room-8)
+---
 
-<br>
-
- <h1>💻 My Tech Stack</h1>
+## 💻 My Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -49,6 +53,3 @@ A sleek movie search and exploration app with filters like top-rated, popular, a
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-
-
