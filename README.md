@@ -6,7 +6,6 @@
 
 <h4 align="left"> I love connecting with people and collaborating on exciting projects! 👋 👋</h4>
 
----
 
 ## 🚀 Featured Projects
 
