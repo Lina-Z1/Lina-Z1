@@ -17,7 +17,7 @@
 
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://spark-ecavf5e2fahzh0e4.northeurope-01.azurewebsites.net/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lina-Z1/SPARK)<br>
-Spark is a powerful resume and portfolio builder built with .NET Core MVC and OpenAI.
+Spark is a FullStack powerful resume and portfolio builder website built with .NET Core MVC and OpenAI.
 
 **Used Technologies**  
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -42,11 +42,11 @@ Spark is a powerful resume and portfolio builder built with .NET Core MVC and Op
 ---
 
 
-### 🎬 Filmo - Movie Database App
+### 🎬 Filmo - Movies Website
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://movie-project-room-8.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/202309-EKTA-JO-FSW/movie-project-room-8)
 <br>
-A sleek movie database app that lets users search and explore movies with detailed info like posters, cast, and trailers.
+A sleek  FrontEnd movie website that lets users search and explore movies with detailed info like posters, cast, and trailers.
 
 **Used Technologies**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
