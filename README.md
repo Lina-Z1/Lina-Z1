@@ -1,9 +1,11 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100% height: 50%;">
-<h2 align="left">Hi There<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">I'm Lina</h2>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" style="width: 100%; max-height: 300px; object-fit: cover;">
+<h2 align="left">Hi There<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" alt="waving hand animation">I'm Lina</h2>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil" />
 </div>
+
+
      
    <h4 align="left">Excited to create and collaborate — let’s do something amazing! 🤝🎯 </h4>
     
