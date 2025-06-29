@@ -6,7 +6,7 @@
 
 
 <table border="0">
-  <tr>
+  <tr >
     <td><img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="100" alt="Icon"></td>
     <td>
       <h4>I love connecting with people and collaborating on exciting projects!</h4>
@@ -21,11 +21,9 @@
 
 ### 🔥 Spark - Resume & Portfolio Builder
 
-
-
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://spark-ecavf5e2fahzh0e4.northeurope-01.azurewebsites.net/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lina-Z1/SPARK)<br>
-A .NET Core MVC app for building and managing resumes/portfolios with AI content generation, live preview, and PDF export. Includes authentication, admin dashboard, and public sharing.
+Spark is a powerful resume and portfolio builder built with .NET Core MVC and OpenAI.
 
 **Used Technologies**  
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -34,6 +32,17 @@ A .NET Core MVC app for building and managing resumes/portfolios with AI content
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%2300A67E?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+<h3>✨ Features</h3> 
+
+✍️ Build and customize resumes/portfolios with manual input or AI-generated content
+
+👁️‍🗨️ Real-time preview and export to PDF
+
+🌍 Publish, share, and control portfolio visibility publicly
+
+🔒 Secure user authentication and role-based access management
+
+📊 Admin dashboard for efficient user oversight
 
 ---
 
@@ -41,7 +50,7 @@ A .NET Core MVC app for building and managing resumes/portfolios with AI content
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://movie-project-room-8.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/202309-EKTA-JO-FSW/movie-project-room-8)
 <br>
-A sleek movie search and exploration app with filters like top-rated, popular, and upcoming. Includes posters, trailers, cast info, and more.
+A sleek movie database app that lets users search and explore movies with detailed info like posters, cast, and trailers.
 
 **Used Technologies**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -49,6 +58,13 @@ A sleek movie search and exploration app with filters like top-rated, popular, a
 ![TMDB API](https://img.shields.io/badge/TMDB%20API-01B4E4?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+<h3>✨ Features</h3> 
+
+📂 Improved movie categorization with filters: top-rated, popular, latest, now playing, upcoming
+
+🤜🤛 Collaborated effectively in a team setting, enhancing communication skills
+
+🚀 Gained hands-on experience with Next.js and modern frontend frameworks
 
 
 ---
