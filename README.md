@@ -25,7 +25,7 @@ A .NET Core MVC app for building and managing resumes/portfolios with AI content
 ---
 
 ### 🎬 Filmo - Movie Database App
-[![Visit Website](https://img.shields.io/badge/Visit%20Website-%2300C853.svg?style=for-the-badge&logo=eye&logoColor=white)](https://movie-project-room-8.vercel.app/)
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://movie-project-room-8.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/202309-EKTA-JO-FSW/movie-project-room-8)
 <br>
 A sleek movie search and exploration app with filters like top-rated, popular, and upcoming. Includes posters, trailers, cast info, and more.
