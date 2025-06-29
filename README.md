@@ -14,7 +14,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lina-Z1/SPARK)<br>
 A .NET Core MVC app for building and managing resumes/portfolios with AI content generation, live preview, and PDF export. Includes authentication, admin dashboard, and public sharing.
 
-**Technologies :**  
+**Used Technologies**  
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-%235C2D91?style=for-the-badge)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-007ACC?style=for-the-badge)
@@ -30,7 +30,7 @@ A .NET Core MVC app for building and managing resumes/portfolios with AI content
 <br>
 A sleek movie search and exploration app with filters like top-rated, popular, and upcoming. Includes posters, trailers, cast info, and more.
 
-**Technologies :**  
+**Used Technologies**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TMDB API](https://img.shields.io/badge/TMDB%20API-01B4E4?style=for-the-badge)
