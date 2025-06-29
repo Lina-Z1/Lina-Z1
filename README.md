@@ -11,7 +11,7 @@
 
 ### 🔥 Spark - Resume & Portfolio Builder 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300C853.svg?style=for-the-badge&logo=eye&logoColor=white)](https://spark-ecavf5e2fahzh0e4.northeurope-01.azurewebsites.net/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lina-Z1/SPARK)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lina-Z1/SPARK)<br>
 A .NET Core MVC app for building and managing resumes/portfolios with AI content generation, live preview, and PDF export. Includes authentication, admin dashboard, and public sharing.
 
 **Technologies :**  
