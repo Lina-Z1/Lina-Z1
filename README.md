@@ -22,8 +22,8 @@ A .NET Core MVC app for creating and managing resumes and portfolios, manually o
 - 🌐 Publish/unpublish customizable portfolios that are publicly shareable.
 - 🔐 Includes user authentication, role-based access, and an admin dashboard for user management.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://your-live-demo-link.com) 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-%23181717.svg?style=for-the-badge&logo=github)](https://github.com/your-username/spark)
+[![Live Demo](https://spark-ecavf5e2fahzh0e4.northeurope-01.azurewebsites.net/) 
+[![GitHub Repo](https://github.com/Lina-Z1/SPARK)
 
 ---
 
@@ -38,8 +38,8 @@ A movie database web application for comprehensive movie data access.
 - 📊 Categorized movies beyond genres: top-rated, popular, latest, now playing, and upcoming.
 - 🤝 Built with a team using Git workflows, enhancing collaboration and version control.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://your-live-demo-link.com) 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-%23181717.svg?style=for-the-badge&logo=github)](https://github.com/your-username/filmo)
+[![Live Demo](https://movie-project-room-8.vercel.app/) 
+[![GitHub Repo](https://github.com/202309-EKTA-JO-FSW/movie-project-room-8)
 
 
 
