@@ -1,4 +1,4 @@
-<h2 align="left">Hi There <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50">I'm Lina</h2>
+<h2 align="left">Hi There<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40">I'm Lina</h2>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil" />
