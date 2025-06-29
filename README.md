@@ -57,3 +57,11 @@ A sleek movie search and exploration app with filters like top-rated, popular, a
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
+<!--  -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
