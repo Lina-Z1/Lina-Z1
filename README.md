@@ -1,23 +1,15 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100% height: 50%;">
 <h2 align="left">Hi There<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">I'm Lina</h2>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil" />
 </div>
-
-
-<table border="0">
-  <tr >
-    <td><img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="100" alt="Icon"></td>
-    <td>
-      <h4>I love connecting with people and collaborating on exciting projects!</h4>
-    </td>
-  </tr>
-</table>
-
-
-
-
-## 🚀 Featured Projects
+     
+   <h4 align="left">Excited to create and collaborate — let’s do something amazing! 🤝🎯 </h4>
+    
+ 
+ 
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="35">&nbsp;Featured Projects
 
 ### 🔥 Spark - Resume & Portfolio Builder
 
@@ -31,20 +23,22 @@ Spark is a powerful resume and portfolio builder built with .NET Core MVC and Op
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-007ACC?style=for-the-badge)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%2300A67E?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+ 
 
-<h3>✨ Features</h3> 
+**✨ Features** 
 
-✍️ Build and customize resumes/portfolios with manual input or AI-generated content
+• ✍️ Build and customize resumes/portfolios with manual input or AI-generated content
 
-👁️‍🗨️ Real-time preview and export to PDF
+• 👁️‍🗨️ Real-time preview and export to PDF
 
-🌍 Publish, share, and control portfolio visibility publicly
+• 🌍 Publish, share, and control portfolio visibility publicly
 
-🔒 Secure user authentication and role-based access management
+• 🔒 Secure user authentication and role-based access management
 
-📊 Admin dashboard for efficient user oversight
+• 📊 Admin dashboard for efficient user oversight
 
 ---
+
 
 ### 🎬 Filmo - Movie Database App
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://movie-project-room-8.vercel.app/)
@@ -58,18 +52,20 @@ A sleek movie database app that lets users search and explore movies with detail
 ![TMDB API](https://img.shields.io/badge/TMDB%20API-01B4E4?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h3>✨ Features</h3> 
+ 
+**✨ Features** 
 
-📂 Improved movie categorization with filters: top-rated, popular, latest, now playing, upcoming
+• 📂 Improved movie categorization with filters: top-rated, popular, latest, now playing, upcoming
 
-🤜🤛 Collaborated effectively in a team setting, enhancing communication skills
+• 🤜🤛 Collaborated effectively in a team setting, enhancing communication skills
 
-🚀 Gained hands-on experience with Next.js and modern frontend frameworks
+• 🚀 Gained hands-on experience with Next.js and modern frontend frameworks
 
 
 ---
 
-## 💻 My Tech Stack
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> My Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
