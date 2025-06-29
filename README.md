@@ -4,11 +4,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil" />
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="100">
-  <h4 style="margin: 0;">I love connecting with people and collaborating on exciting projects! 👋 👋</h4>
+<div style="display: flex; align-items: center; gap: 15px;">
+  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="100" alt="Icon">
+  <h4 style="margin: 0;">I love connecting with people and collaborating on exciting projects!</h4>
 </div>
-
 
 
 
