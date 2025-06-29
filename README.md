@@ -88,5 +88,15 @@ A sleek movie database app that lets users search and explore movies with detail
 <br>
 <br>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Lina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lina-Z1&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina-Z1&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lina-Z1&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Lina-Z1&theme=darkhub)
+
+</div>
 
  
