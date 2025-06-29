@@ -7,10 +7,10 @@
 
 </div>
 <h4 align="left">🚀 I would love to connect with different people and collaborate on projects together !</h4>
-<br><br>
-## 🚀 Featured Projects
+<br>
+<h3>🚀 Featured Projects</h3>
 
-###  🔥  Spark - Resume & Portfolio Builder  
+<h5>🔥  Spark - Resume & Portfolio Builder  </h5> 
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-%235C2D91?style=for-the-badge)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-007ACC?style=for-the-badge)
@@ -23,7 +23,7 @@ A .NET Core MVC app for building and managing resumes/portfolios with AI content
 
 ---
 
-### 🎬 Filmo - Movie Database App  
+<h5>🎬 Filmo - Movie Database App  </h5>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TMDB API](https://img.shields.io/badge/TMDB%20API-01B4E4?style=for-the-badge)
@@ -35,7 +35,7 @@ A sleek movie search and exploration app with filters like top-rated, popular, a
 
 <br>
 <br>
- # 💻 My Tech Stack
+ <h3>💻 My Tech Stack</h3>
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
