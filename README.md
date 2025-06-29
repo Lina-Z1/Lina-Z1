@@ -73,9 +73,6 @@ A sleek movie search and exploration app with filters like top-rated, popular, a
 <!--  -->
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
  
