@@ -5,9 +5,10 @@
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40" alt="Handshake">
-  <h4 style="margin: 0;">I love connecting with people and collaborating on exciting projects!</h4>
+  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="100">
+  <h4 style="margin: 0;">I love connecting with people and collaborating on exciting projects! 👋 👋</h4>
 </div>
+
 
 
 
