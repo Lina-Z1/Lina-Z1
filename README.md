@@ -9,7 +9,7 @@
 
 ## 🚀 Featured Projects
 
-### <img src="https://www.flaticon.com/free-animated-icon/fire_16767287" width="40"> Spark - Resume & Portfolio Builder
+###🔥 Spark - Resume & Portfolio Builder
 
 
 
