@@ -10,7 +10,7 @@
 ## 🚀 Featured Projects
 
 ### 🔥 Spark - Resume & Portfolio Builder 
-[![Visit Website](https://img.shields.io/badge/Live%20Demo-%2300C853.svg?style=for-the-badge&logo=eye&logoColor=white)](https://spark-ecavf5e2fahzh0e4.northeurope-01.azurewebsites.net/)
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-%2300C853.svg?style=for-the-badge&logo=eye&logoColor=white)](https://spark-ecavf5e2fahzh0e4.northeurope-01.azurewebsites.net/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lina-Z1/SPARK)<br>
 A .NET Core MVC app for building and managing resumes/portfolios with AI content generation, live preview, and PDF export. Includes authentication, admin dashboard, and public sharing.
 
@@ -25,7 +25,7 @@ A .NET Core MVC app for building and managing resumes/portfolios with AI content
 ---
 
 ### 🎬 Filmo - Movie Database App
-[![Visit Website](https://img.shields.io/badge/Live%20Demo-%2300C853.svg?style=for-the-badge&logo=eye&logoColor=white)](https://movie-project-room-8.vercel.app/)
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-%2300C853.svg?style=for-the-badge&logo=eye&logoColor=white)](https://movie-project-room-8.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/202309-EKTA-JO-FSW/movie-project-room-8)
 <br>
 A sleek movie search and exploration app with filters like top-rated, popular, and upcoming. Includes posters, trailers, cast info, and more.
