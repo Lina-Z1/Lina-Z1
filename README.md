@@ -9,7 +9,7 @@
 
 ## 🚀 Featured Projects
 
- 🔥 Spark - Resume & Portfolio Builder
+### 🔥 Spark - Resume & Portfolio Builder
 
 
 
