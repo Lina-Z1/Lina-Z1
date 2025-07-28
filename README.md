@@ -65,7 +65,37 @@ A sleek  FrontEnd movie website that lets users search and explore movies with d
 
 
 ---
+### ⛅ The Weather Website
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)]([https://the-weather-website444.netlify.app/]
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lina-Z1/The-Weather-Website)  
+ <br>
+A responsive weather website built using HTML, CSS, and JavaScript. It shows real-time weather data like temperature, humidity, wind speed, cloud conditions, and local time. Users can also search for the weather in any city.
 
+
+
+**Used Technologies**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![WeatherAPI](https://img.shields.io/badge/WeatherAPI-%230096CC?style=for-the-badge)
+
+**✨ Features**  
+• 🔍 Search for real-time weather by city name  
+• 🌥️ Displays:  
+&nbsp;&nbsp;&nbsp;&nbsp;• Temperature (°C)  
+&nbsp;&nbsp;&nbsp;&nbsp;• Cloud coverage (%)  
+&nbsp;&nbsp;&nbsp;&nbsp;• Humidity (%)  
+&nbsp;&nbsp;&nbsp;&nbsp;• Wind speed (km/h)  
+&nbsp;&nbsp;&nbsp;&nbsp;• Weather condition icon  
+&nbsp;&nbsp;&nbsp;&nbsp;• City name, date & time  
+• 📱 Responsive design (works on desktop & mobile)  
+• 🌐 Includes weather display for:  
+&nbsp;&nbsp;&nbsp;&nbsp;• Phoenix, USA  
+&nbsp;&nbsp;&nbsp;&nbsp;• Mawsynram, India  
+&nbsp;&nbsp;&nbsp;&nbsp;• Amman, Jordan
+
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> My Tech Stack
 
