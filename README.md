@@ -66,12 +66,10 @@ A sleek  FrontEnd movie website that lets users search and explore movies with d
 
 ---
 ### ⛅ The Weather Website
-[![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)]([https://the-weather-website444.netlify.app/]
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lina-Z1/The-Weather-Website)  
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://the-weather-website444.netlify.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lina-Z1/The-Weather-Website)    
  <br>
 A responsive weather website built using HTML, CSS, and JavaScript. It shows real-time weather data like temperature, humidity, wind speed, cloud conditions, and local time. Users can also search for the weather in any city.
-
-
 
 **Used Technologies**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -93,7 +91,6 @@ A responsive weather website built using HTML, CSS, and JavaScript. It shows rea
 &nbsp;&nbsp;&nbsp;&nbsp;• Phoenix, USA  
 &nbsp;&nbsp;&nbsp;&nbsp;• Mawsynram, India  
 &nbsp;&nbsp;&nbsp;&nbsp;• Amman, Jordan
-
 
 ---
 
