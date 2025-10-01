@@ -15,7 +15,7 @@
 
 ### 🔥 Spark - Resume & Portfolio Builder
 
-[![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://sparkweb.runasp.net/)
+<!--[![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://sparkweb.runasp.net/)-->
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lina-Z1/SPARK)<br>
 Spark is a FullStack powerful resume and portfolio builder website built with .NET Core MVC and OpenAI.
 
