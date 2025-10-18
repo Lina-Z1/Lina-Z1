@@ -4,13 +4,10 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil" />
 </div>
-
-
      
    <h4 align="left">Excited to create and collaborate — let’s do something amazing! 🤝🎯 </h4>
-    
- 
- 
+   
+
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="35">&nbsp;Featured Projects
 ### 🔥 Spark – Resume & Portfolio Builder
 <img alt="spark" src="https://github.com/user-attachments/assets/de07b8fb-86d1-4fa7-9f7d-707bbf883e10" width="1000"  />
@@ -45,7 +42,7 @@
  
 
 ### ⛅ The Weather Website
-<img alt="weather" src="https://github.com/user-attachments/assets/2f217b39-64f5-4882-961c-5f80b10d45cf" width="1000"  />
+<img alt="weather" src="https://github.com/user-attachments/assets/f03de34b-a5a7-46d5-b255-267265579566" width="1000"  />
 
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://the-weather-website444.netlify.app/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lina-Z1/The-Weather-Website) <br>  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![WeatherAPI](https://img.shields.io/badge/WeatherAPI-%230096CC?style=for-the-badge) <br>
 <b>A responsive weather website that shows real-time weather data like temperature, humidity, wind speed, cloud conditions, and local time.</b><br>
