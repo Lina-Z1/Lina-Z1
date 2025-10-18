@@ -10,7 +10,7 @@
 ### 🔥 Spark – Resume & Portfolio Builder
 <img alt="spark" src="https://github.com/user-attachments/assets/de07b8fb-86d1-4fa7-9f7d-707bbf883e10" width="1000"  />
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lina-Z1/SPARK) <br>   ![.NET Core](https://img.shields.io/badge/.NET%20Core-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-%235C2D91?style=for-the-badge) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-007ACC?style=for-the-badge) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%2300A67E?style=for-the-badge) <br>
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lina-Z1/SPARK) <br>   ![.NET Core](https://img.shields.io/badge/.NET%20Core-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-%235C2D91?style=for-the-badge) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-007ACC?style=for-the-badge) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%2300A67E?style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) <br>
 <b>Spark is a FullStack resume and portfolio builder website built with .NET Core MVC and OpenAI.</b> 
 
 
