@@ -27,8 +27,9 @@
 
  
 
+
 ### 🎬 Filmo – Movies Website
-<img alt="filmo" src="https://github.com/user-attachments/assets/1c766b7f-ee93-4fda-9bcc-31804d39e3fb" width="1000"  />
+<img alt="filmo" src="https://github.com/user-attachments/assets/2e1ea0dc-8fd6-4dfe-85f9-c8f12e6d888d" width="1000"  />
 
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://movie-project-room-8.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/202309-EKTA-JO-FSW/movie-project-room-8) <br>  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TMDB API](https://img.shields.io/badge/TMDB%20API-01B4E4?style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>
 <b>A frontend movie website that lets users search and explore movies with detailed info like posters, cast, and trailers.</b><br>
