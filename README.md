@@ -1,12 +1,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" style="width: 100%; max-height: 300px; object-fit: cover;">
-<h2 align="left">Hi There<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" alt="waving hand animation">I'm Lina</h2>
+<h2 align="left">Hi There<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" alt="waving hand animation"></h2>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil" />
-</div>
-     
-   <h4 align="left">Excited to create and collaborate — let’s do something amazing! 🤝🎯 </h4>
-   
+</div>     
+  <!-- <h4 align="left">Excited to create and collaborate — let’s do something amazing! 🤝🎯 </h4> -->
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="35">&nbsp;Featured Projects
 ### 🔥 Spark – Resume & Portfolio Builder
@@ -26,8 +24,6 @@
 </div>
 
  
-
-
 ### 🎬 Filmo – Movies Website
 <img alt="filmo" src="https://github.com/user-attachments/assets/2e1ea0dc-8fd6-4dfe-85f9-c8f12e6d888d" width="1000"  />
 
@@ -41,7 +37,6 @@
 </div>
 
  
-
 ### ⛅ The Weather Website
 <img alt="weather" src="https://github.com/user-attachments/assets/f03de34b-a5a7-46d5-b255-267265579566" width="1000"  />
 
@@ -55,11 +50,10 @@
 </div>
 
  
-
 ### 📊 Tableau Portfolio
 <img  alt="dashboards" src="https://github.com/user-attachments/assets/3c155201-a8b7-4bd7-a04f-ea90f8c029c1" width="1000"  />
 
-[![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://public.tableau.com/app/profile/lina.z7182/vizzes)  <br>  ![Tableau](https://img.shields.io/badge/Tableau-F2A2E8?style=for-the-badge&logo=tableau&logoColor=white) <br>
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://public.tableau.com/app/profile/lina.z7182/vizzes)   <br>
 <b>A Tableau portfolio for data visualization and interactive dashboards. Highlights trends and insights for easy data analysis.</b><br>
 <div align="left">
 <b>✨ Features</b><br>
@@ -85,6 +79,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+ ![Tableau](https://img.shields.io/badge/Tableau-F2A2E8?style=for-the-badge&logo=tableau&logoColor=white)
 
 <!--  -->
 
