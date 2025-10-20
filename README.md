@@ -11,7 +11,7 @@
 
 ## 💻 Featured Projects
 
-### 🔥 [Spark – Resume & Portfolio Builder](https://github.com/Lina-Z1/SPARK) 
+### 💼🧾 [Spark – Resume & Portfolio Builder](https://github.com/Lina-Z1/SPARK) 
 <a href="https://github.com/Lina-Z1/SPARK">
   <img alt="spark" src="https://github.com/user-attachments/assets/2ff6b1c1-5723-4159-8c10-2f56223d9dbf" width="470" align="left" style="margin-right:30px margin-left:30px;">  
 </a><b>Spark is a FullStack resume and portfolio builder website built with .NET Core MVC and OpenAI.</b><br><br>
