@@ -7,15 +7,13 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil" style="margin-left:15px;" alt="visitor badge">
 </h2>
 
- 
 
- 
 
 ## 💻 Featured Projects
 
 ### 🔥 [Spark – Resume & Portfolio Builder](https://github.com/Lina-Z1/SPARK) 
 <a href="https://github.com/Lina-Z1/SPARK">
-  <img alt="spark" src="https://github.com/user-attachments/assets/de07b8fb-86d1-4fa7-9f7d-707bbf883e10" width="470" align="left" style="margin-right:30px margin-left:30px;">  
+  <img alt="spark" src="https://github.com/user-attachments/assets/2ff6b1c1-5723-4159-8c10-2f56223d9dbf" width="470" align="left" style="margin-right:30px margin-left:30px;">  
 </a><b>Spark is a FullStack resume and portfolio builder website built with .NET Core MVC and OpenAI.</b><br><br>
 
 <div align="left">
@@ -78,7 +76,6 @@
 
 ### 📊 [Tableau Portfolio]() 
 <a href="(https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white">
-<!--   <img src="https://github.com/user-attachments/assets/3c155201-a8b7-4bd7-a04f-ea90f8c029c1" width="470" align="left" style="margin-right:30px margin-left:30px border:5px solid red ;"> -->
    <img src="https://github.com/user-attachments/assets/0d6c8da9-1fd1-4849-aaea-60629cf01d42" width="470" align="left" style="margin-right:30px margin-left:30px border:5px solid red ;">
 </a><b>Tableau visualizations that turn data into clear, interactive insights.</b><br><br>
 
