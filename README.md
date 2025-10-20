@@ -29,7 +29,7 @@
 
 ---
 
-### 🎬  [Filmo – Movies Website](https://github.com/202309-EKTA-JO-FSW/movie-project-room-8) 
+### 🎬🍿  [Filmo – Movies Website](https://github.com/202309-EKTA-JO-FSW/movie-project-room-8) 
 <a href="https://github.com/202309-EKTA-JO-FSW/movie-project-room-8">
   <img alt="filmo" src="https://github.com/user-attachments/assets/2e1ea0dc-8fd6-4dfe-85f9-c8f12e6d888d" width="470" align="left" style="margin-right:30px;">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;<b>A frontend movie website that lets users search and <br>&nbsp;&nbsp;&nbsp; explore movies with detailed info(posters,cast,trailers...).</b><br><br>
@@ -54,7 +54,7 @@
 
 ---
 
-### ⛅ [The Weather Website](https://github.com/Lina-Z1/The-Weather-Website) 
+### ☀️⛅ [The Weather Website](https://github.com/Lina-Z1/The-Weather-Website) 
 <a href="https://github.com/Lina-Z1/The-Weather-Website">
    <img alt="weather" src="https://github.com/user-attachments/assets/f03de34b-a5a7-46d5-b255-267265579566" width="470" align="left" style="margin-right:30px margin-left:30px;">
 </a>&nbsp;&nbsp;&nbsp;<b>A responsive weather website that shows real-time<br>&nbsp;&nbsp;&nbsp; weather data.</b><br><br>
@@ -74,7 +74,7 @@
 ---
 
 
-### 📊 [Tableau Portfolio]() 
+### 📊📈 [Tableau Portfolio]() 
 <a href="(https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white">
    <img src="https://github.com/user-attachments/assets/0d6c8da9-1fd1-4849-aaea-60629cf01d42" width="470" align="left" style="margin-right:30px margin-left:30px border:5px solid red ;">
 </a><b>Tableau visualizations that turn data into clear, interactive insights.</b><br><br>
