@@ -19,7 +19,7 @@
 • Customize manual or AI-generated content<br>
 • Real-time preview and export to PDF<br>
 • Publish, share, and control portfolio visibility publicly<br>
-• User authentication and role-based access management<br>
+• User authentication and role-based access <br>
 • Admin dashboard for efficient user oversight
 </div><br> 
 
