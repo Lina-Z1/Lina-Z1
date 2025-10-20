@@ -15,8 +15,7 @@
 
 ### 🔥 [Spark – Resume & Portfolio Builder](https://github.com/Lina-Z1/SPARK) 
 <a href="https://github.com/Lina-Z1/SPARK">
-  <!-- <img alt="spark" src="https://github.com/user-attachments/assets/de07b8fb-86d1-4fa7-9f7d-707bbf883e10" width="470" align="left" style="margin-right:30px margin-left:30px;"> -->
-   <img alt="spark" src="https://github.com/user-attachments/assets/36284420-08d6-4cac-bedb-891ba53d7ab2" width="470" align="left" style="margin-right:30px margin-left:30px;">
+  <img alt="spark" src="https://github.com/user-attachments/assets/de07b8fb-86d1-4fa7-9f7d-707bbf883e10" width="470" align="left" style="margin-right:30px margin-left:30px;">  
 </a><b>Spark is a FullStack resume and portfolio builder website built with .NET Core MVC and OpenAI.</b><br><br>
 
 <div align="left">
