@@ -77,7 +77,7 @@
 
 ### 📊 [Tableau Portfolio]() 
 <a href="(https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white">
-   <img src="https://github.com/user-attachments/assets/3c155201-a8b7-4bd7-a04f-ea90f8c029c1" width="470" align="left" style="margin-right:30px margin-left:30px;">
+   <img src="https://github.com/user-attachments/assets/3c155201-a8b7-4bd7-a04f-ea90f8c029c1" width="470" align="left" style="margin-right:30px; margin-left:30px ;border:100px red solid;">
 </a><b>Tableau visualizations that turn data into clear, interactive insights.</b><br><br>
 
 <div align="left">
