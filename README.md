@@ -75,9 +75,11 @@
 
 ---
 
+
 ### 📊 [Tableau Portfolio]() 
 <a href="(https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white">
-   <img src="https://github.com/user-attachments/assets/3c155201-a8b7-4bd7-a04f-ea90f8c029c1" width="470" align="left" style="margin-right:30px; margin-left:30px ;border:100px red solid;">
+<!--   <img src="https://github.com/user-attachments/assets/3c155201-a8b7-4bd7-a04f-ea90f8c029c1" width="470" align="left" style="margin-right:30px margin-left:30px border:5px solid red ;"> -->
+   <img src="https://github.com/user-attachments/assets/0d6c8da9-1fd1-4849-aaea-60629cf01d42" width="470" align="left" style="margin-right:30px margin-left:30px border:5px solid red ;">
 </a><b>Tableau visualizations that turn data into clear, interactive insights.</b><br><br>
 
 <div align="left">
