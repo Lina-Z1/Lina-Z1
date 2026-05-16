@@ -38,7 +38,7 @@
 <div align="left">
  &nbsp;&nbsp;<b>✨ Features</b><br>
  &nbsp;&nbsp;&nbsp;• Filter and explore movies by category<br>
- &nbsp;&nbsp;&nbsp;• View detailed information with posters, cast, and trailers<br>
+ &nbsp;&nbsp;&nbsp;• View posters, cast, and trailers<br>
  &nbsp;&nbsp;&nbsp;• Enjoy a fast, dynamic movie browsing experience
 </div><br>
 
