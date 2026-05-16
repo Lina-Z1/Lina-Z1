@@ -40,7 +40,7 @@
  &nbsp;&nbsp;&nbsp;• Filter and explore movies by category<br>
  &nbsp;&nbsp;&nbsp;• View posters, cast, and trailers<br>
  &nbsp;&nbsp;&nbsp;• Enjoy a fast, dynamic movie browsing experience
-</div><br>
+</div><br><br>
 
  &nbsp;&nbsp;&nbsp;[![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://movielist-website.netlify.app/)
 
