@@ -33,7 +33,7 @@
 <a href="https://github.com/Lina-Z1/Movie-List">
   <img alt="Movie List " src="https://github.com/user-attachments/assets/bdce4187-4e72-4c48-8a11-454400c63ee0"   width="470" align="left" style="margin-right:30px margin-left:30px;">  
  
-</a>&nbsp;&nbsp;&nbsp;<b>A frontend movie website that lets users search and <br>&nbsp;&nbsp;&nbsp; explore movies with detailed info(posters,cast,trailers...).</b><br><br>
+</a>&nbsp;&nbsp;&nbsp;<b>A frontend movie website that lets users search and <br>&nbsp;&nbsp; explore movies with detailed info(posters,cast,trailers...).</b><br><br>
  
 <div align="left">
  &nbsp;&nbsp;<b>✨ Features</b><br>
