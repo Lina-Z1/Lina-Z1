@@ -31,7 +31,8 @@
 
 ### 🎬🍿  [Movie List – Movies Website](https://github.com/Lina-Z1/Movie-List) 
 <a href="https://github.com/Lina-Z1/Movie-List">
-  <img alt="filmo" src="https://github.com/user-attachments/assets/2e1ea0dc-8fd6-4dfe-85f9-c8f12e6d888d" width="470" align="left" style="margin-right:30px;">
+  <img alt="Movie List " src="https://github.com/user-attachments/assets/bdce4187-4e72-4c48-8a11-454400c63ee0" />
+" width="470" align="left" style="margin-right:30px;">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;<b>A frontend movie website that lets users search and <br>&nbsp;&nbsp;&nbsp; explore movies with detailed info(posters,cast,trailers...).</b><br><br>
  
 <div align="left">
@@ -50,7 +51,7 @@
 ![TMDB API](https://img.shields.io/badge/TMDB%20API-01B4E4?style=for-the-badge)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)<img width="1344" height="569" alt="Screenshot (5955)" src="https://github.com/user-attachments/assets/9e6eab41-e6ed-4754-ad50-1539d6d846e0" />
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)<img width="1344" height="569" alt="Screenshot (5955)
 
 </div>
 
