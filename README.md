@@ -1,6 +1,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" style="width: 100%; max-height: 300px; object-fit: cover;">
   
-  <!-- <h4 align="left">Excited to create and collaborate — let’s do something amazing! 🤝🎯 </h4> -->
+   
  <h2 align="left">
   Hi There
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" alt="waving hand animation">
@@ -33,14 +33,14 @@
 <a href="https://github.com/Lina-Z1/Movie-List">
   <img alt="Movie List " src="https://github.com/user-attachments/assets/bdce4187-4e72-4c48-8a11-454400c63ee0"   width="470" align="left" style="margin-right:30px margin-left:30px;">  
  
-</a>&nbsp;&nbsp;&nbsp;<b>A react movie website that lets users search and explore movies with detailed info.</b><br><br>
+</a>&nbsp;&nbsp;<b>A react movie website that lets users search and explore movies with detailed info.</b><br><br>
  
 <div align="left">
  &nbsp;&nbsp;<b>✨ Features</b><br>
  &nbsp;&nbsp;&nbsp;• Filter and explore movies by category<br>
  &nbsp;&nbsp;&nbsp;• View posters, cast, and trailers<br>
  &nbsp;&nbsp;&nbsp;• Enjoy a fast, dynamic movie browsing experience
-</div><br><br>
+</div><br><br><br>
 
  &nbsp;&nbsp;&nbsp;[![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://movielist-website.netlify.app/)
 
