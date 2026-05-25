@@ -33,11 +33,11 @@
 <a href="https://github.com/Lina-Z1/Movie-List">
   <img alt="Movie List " src="https://github.com/user-attachments/assets/bdce4187-4e72-4c48-8a11-454400c63ee0"   width="470" align="left" style="margin-right:30px margin-left:30px;">  
  
-</a>&nbsp;&nbsp;<b>A react movie website that lets users search and explore movies with detailed info.</b><br>
+</a>&nbsp;&nbsp;<b>A react website that lets users search and explore movies,series and actors with detailed info.</b><br>
  
 <div align="left">
  &nbsp;&nbsp;<b>✨ Features</b><br>
- &nbsp;&nbsp;&nbsp;• Filter and explore movies by category<br>
+ &nbsp;&nbsp;&nbsp;• Filter and explore movies and serieses by category<br>
  &nbsp;&nbsp;&nbsp;• View posters, cast, and trailers<br>
  &nbsp;&nbsp;&nbsp;• Enjoy a fast, dynamic movie browsing experience
 </div><br><br>
