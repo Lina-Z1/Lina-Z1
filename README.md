@@ -55,10 +55,9 @@
 
 ---
 
-### ☀️⛅ [S<img width="1366" height="562" alt="Screenshot (5965)" src="https://github.com/user-attachments/assets/ee5026ba-8609-4ce9-83bd-98a3726bd3aa" />
-ky Weather](https://github.com/Lina-Z1/The-Weather-Website) 
+### ☀️⛅ [Sky Weather](https://github.com/Lina-Z1/The-Weather-Website) 
 <a href="https://github.com/Lina-Z1/The-Weather-Website">
-   <img alt="weather" src="https://github.com/user-attachments/assets/f03de34b-a5a7-46d5-b255-267265579566" width="470" align="left" style="margin-right:30px margin-left:30px;">
+   <img alt="weather" src="https://github.com/user-attachments/assets/ee5026ba-8609-4ce9-83bd-98a3726bd3aa" width="470" align="left" style="margin-right:30px margin-left:30px;">
 </a>&nbsp;&nbsp;&nbsp;<b>A responsive react weather website that shows real-time<br>&nbsp;&nbsp;&nbsp; weather data.</b><br><br>
 
 <div align="left">
