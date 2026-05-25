@@ -33,7 +33,7 @@
 <a href="https://github.com/Lina-Z1/Movie-List">
   <img alt="Movie List " src="https://github.com/user-attachments/assets/bdce4187-4e72-4c48-8a11-454400c63ee0"   width="470" align="left" style="margin-right:30px margin-left:30px;">  
  
-</a>&nbsp;&nbsp;<b>A react movie website that lets users search and explore movies with detailed info.</b><br><br>
+</a>&nbsp;&nbsp;<b>A react movie website that lets users search and explore movies with detailed info.</b><br>
  
 <div align="left">
  &nbsp;&nbsp;<b>✨ Features</b><br>
@@ -58,7 +58,7 @@
 ### ☀️⛅ [Sky Weather](https://github.com/Lina-Z1/Sky-Weather) 
 <a href="https://github.com/Lina-Z1/Sky-Weather">
    <img alt="weather" src="https://github.com/user-attachments/assets/ee5026ba-8609-4ce9-83bd-98a3726bd3aa" width="470" align="left" style="margin-right:30px margin-left:30px;">
-</a>&nbsp;&nbsp;&nbsp;<b>A responsive react weather website that shows real-time<br>&nbsp;&nbsp;&nbsp; weather data.</b><br><br>
+</a>&nbsp;&nbsp;&nbsp;<b>A responsive react weather website that shows real-time &nbsp;&nbsp;&nbsp; weather data.</b><br>
 
 <div align="left">
 <b>&nbsp;&nbsp;✨ Features</b><br>
