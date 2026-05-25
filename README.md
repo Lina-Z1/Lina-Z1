@@ -55,10 +55,11 @@
 
 ---
 
-### ☀️⛅ [The Weather Website](https://github.com/Lina-Z1/The-Weather-Website) 
+### ☀️⛅ [S<img width="1366" height="562" alt="Screenshot (5965)" src="https://github.com/user-attachments/assets/ee5026ba-8609-4ce9-83bd-98a3726bd3aa" />
+ky Weather](https://github.com/Lina-Z1/The-Weather-Website) 
 <a href="https://github.com/Lina-Z1/The-Weather-Website">
    <img alt="weather" src="https://github.com/user-attachments/assets/f03de34b-a5a7-46d5-b255-267265579566" width="470" align="left" style="margin-right:30px margin-left:30px;">
-</a>&nbsp;&nbsp;&nbsp;<b>A responsive weather website that shows real-time<br>&nbsp;&nbsp;&nbsp; weather data.</b><br><br>
+</a>&nbsp;&nbsp;&nbsp;<b>A responsive react weather website that shows real-time<br>&nbsp;&nbsp;&nbsp; weather data.</b><br><br>
 
 <div align="left">
 <b>&nbsp;&nbsp;✨ Features</b><br>
@@ -66,10 +67,10 @@
 &nbsp;&nbsp;&nbsp;• Displays: Temp(°C),Cloud coverage(%),Humidity(%)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wind speed(km/h),City name, date & time<br>
 </div><br>
 
-&nbsp;&nbsp;&nbsp;[![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://the-weather-website444.netlify.app/)
+&nbsp;&nbsp;&nbsp;[![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://skyweathers.netlify.app/)
 
-
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![WeatherAPI](https://img.shields.io/badge/WeatherAPI-%230096CC?style=for-the-badge) <br>
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![WeatherAPI](https://img.shields.io/badge/WeatherAPI-%230096CC?style=for-the-badge) <br>
  
 
 ---
