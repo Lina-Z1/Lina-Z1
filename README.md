@@ -42,8 +42,9 @@
  &nbsp;&nbsp;&nbsp;• Enjoy a fast, dynamic movie browsing experience
 </div><br><br><br>
 
+<div align="left">
  &nbsp;&nbsp;&nbsp;[![Visit Website](https://img.shields.io/badge/Visit%20Website-%23FF0000.svg?style=for-the-badge&logo=eye&logoColor=white)](https://movielist-website.netlify.app/)
-
+</div>
  
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TMDB API](https://img.shields.io/badge/TMDB%20API-01B4E4?style=for-the-badge)
@@ -58,7 +59,7 @@
 ### ☀️⛅ [Sky Weather](https://github.com/Lina-Z1/Sky-Weather) 
 <a href="https://github.com/Lina-Z1/Sky-Weather">
    <img alt="weather" src="https://github.com/user-attachments/assets/ee5026ba-8609-4ce9-83bd-98a3726bd3aa" width="470" align="left" style="margin-right:30px margin-left:30px;">
-</a>&nbsp;&nbsp;&nbsp;<b>A responsive react weather website that shows real-time &nbsp;&nbsp;&nbsp; weather data.</b><br>
+</a>&nbsp;&nbsp;&nbsp;<b>A responsive react weather website that shows real-time&nbsp;&nbsp; weather data.</b><br>
 
 <div align="left">
 <b>&nbsp;&nbsp;✨ Features</b><br>
