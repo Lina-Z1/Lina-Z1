@@ -130,15 +130,15 @@
 
 
 
-<!--
+
  
   📊 GitHub Stats
 
 <div align="center">
 
 ![Lina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lina-Z1&show_icons=true&theme=tokyonight)
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina-Z1&layout=compact&theme=tokyonight) -->
-<!--![Trophies](https://github-profile-trophy.vercel.app/?username=Lina-Z1&theme=darkhub) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina-Z1&layout=compact&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Lina-Z1&theme=darkhub)
 </div>     
 
 
