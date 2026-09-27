@@ -46,7 +46,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Lina-Z1/CityCenter">
-        <img src="https://github.com/user-attachments/assets/3641686d-fedd-4475-8d7b-005a213671e0" width="500" height="260" alt="CityCenter"/>
+        <img src="https://github.com/user-attachments/assets/3641686d-fedd-4475-8d7b-005a213671e0" width="500" height="250" alt="CityCenter"/>
       </a>
       <h3> CityCenter</h3> <p> <a href="https://github.com/Lina-Z1/citycenter">
        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -59,7 +59,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Lina-Z1/spark">
-        <img src="https://github.com/user-attachments/assets/7b5296d8-6b3f-49a9-9a9c-b247748c62dc" width="500" height="260" alt="Spark"/>
+        <img src="https://github.com/user-attachments/assets/7b5296d8-6b3f-49a9-9a9c-b247748c62dc" width="500" height="250" alt="Spark"/>
         </a>
       <h3> SPARK</h3> <p> <a href="https://github.com/Lina-Z1/spark">
        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -76,7 +76,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Lina-Z1/CltureDrop">
-        <img src="https://github.com/user-attachments/assets/48ae0362-20a4-4a90-aa33-c667fefc0894" width="500" height="260" alt="CultureDrop"/>
+        <img src="https://github.com/user-attachments/assets/48ae0362-20a4-4a90-aa33-c667fefc0894" width="500" height="250" alt="CultureDrop"/>
                </a>
      <h3> CultureDrop</h3> <p> <a href="https://github.com/Lina-Z1/CltureDrop">
        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -89,7 +89,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Lina-Z1/Movie-List">
-        <img src="https://github.com/user-attachments/assets/4a92bfda-96fb-4cd5-9f1d-d021044fea10" width="500" height="260" alt="Movie List"/>
+        <img src="https://github.com/user-attachments/assets/4a92bfda-96fb-4cd5-9f1d-d021044fea10" width="500" height="250" alt="Movie List"/>
            </a>
       <h3> Movie-List </h3> <p> <a href="https://github.com/Lina-Z1/Movie-List">
        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -105,7 +105,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Lina-Z1/Sky-Weather">
-        <img src="https://github.com/user-attachments/assets/ee5026ba-8609-4ce9-83bd-98a3726bd3aa"  width="500" height="260" alt="Weather app screenshot"/>
+        <img src="https://github.com/user-attachments/assets/ee5026ba-8609-4ce9-83bd-98a3726bd3aa"  width="500" height="250" alt="Weather app screenshot"/>
       </a>
     <h3> Sky Weather</h3> <p> <a href="https://github.com/Lina-Z1/Sky-Weather">
        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -118,7 +118,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://public.tableau.com/app/profile/lina.z7182/vizzes">
-        <img src="https://github.com/user-attachments/assets/0d6c8da9-1fd1-4849-aaea-60629cf01d42"  width="500" height="260" alt="Tableau"/>
+        <img src="https://github.com/user-attachments/assets/0d6c8da9-1fd1-4849-aaea-60629cf01d42"  width="500" height="250" alt="Tableau"/>
       </a>
      <h3>  Tableau Portfolio</h3> <p> 
        <a href="https://public.tableau.com/app/profile/lina.z7182/vizzes"><img src="https://img.shields.io/badge/Visit_Website-2F81F7?style=flat-square&logo=vercel&logoColor=white"/>
