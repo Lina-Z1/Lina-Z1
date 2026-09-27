@@ -118,8 +118,8 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://public.tableau.com/app/profile/lina.z7182/vizzes">
-        <img src="https://github.com/user-attachments/assets/0d6c8da9-1fd1-4849-aaea-60629cf01d42"  width="500" height="250" alt="Tableau"/>
-      </a>
+        <img src="https://github.com/user-attachments/assets/90e6c33c-6172-45c8-8cdf-adf6fe8eb938"  width="500" height="250" alt="Tableau"/>
+            </a>
      <h3>  Tableau Portfolio</h3> <p> 
        <a href="https://public.tableau.com/app/profile/lina.z7182/vizzes"><img src="https://img.shields.io/badge/Visit_Website-2F81F7?style=flat-square&logo=vercel&logoColor=white"/>
       <p>Tableau dashboards and visualizations that turn raw data into clear, interactive, decision-ready insights.</p>
