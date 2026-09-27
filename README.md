@@ -89,8 +89,8 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Lina-Z1/Movie-List">
-        <img src="https://github.com/user-attachments/assets/b7f71ba1-35a9-469c-a604-4f1b89300093" width="500" height="260" alt="Movie List"/>
-      </a>
+        <img src="https://github.com/user-attachments/assets/4a92bfda-96fb-4cd5-9f1d-d021044fea10" width="500" height="260" alt="Movie List"/>
+           </a>
       <h3> Movie-List </h3> <p> <a href="https://github.com/Lina-Z1/Movie-List">
        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
        <a href="https://movielist-website.netlify.app/"><img src="https://img.shields.io/badge/Visit_Website-2F81F7?style=flat-square&logo=vercel&logoColor=white"/>
