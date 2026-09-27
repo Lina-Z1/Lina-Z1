@@ -46,7 +46,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Lina-Z1/CityCenter">
-        <img src="https://github.com/user-attachments/assets/410cb198-3787-4fe6-b46d-0449c7c33ae8" width="500" height="260" alt="CityCenter screenshot"/>
+        <img src="https://github.com/user-attachments/assets/3641686d-fedd-4475-8d7b-005a213671e0" width="500" height="260" alt="CityCenter"/>
       </a>
       <h3> CityCenter</h3> <p> <a href="https://github.com/Lina-Z1/citycenter">
        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
