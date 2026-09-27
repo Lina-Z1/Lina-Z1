@@ -76,8 +76,8 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Lina-Z1/CltureDrop">
-        <img src="https://github.com/user-attachments/assets/8cbd1181-a1d4-4620-94b2-39718ac44e8e" width="500" height="260" alt="CultureDrop"/>
-      </a>
+        <img src="https://github.com/user-attachments/assets/48ae0362-20a4-4a90-aa33-c667fefc0894" width="500" height="260" alt="CultureDrop"/>
+               </a>
      <h3> CultureDrop</h3> <p> <a href="https://github.com/Lina-Z1/CltureDrop">
        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
        <a href="https://culturedrop10.netlify.app/"><img src="https://img.shields.io/badge/Visit_Website-2F81F7?style=flat-square&logo=vercel&logoColor=white"/>
