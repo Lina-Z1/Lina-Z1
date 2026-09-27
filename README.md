@@ -59,8 +59,8 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Lina-Z1/spark">
-        <img src="https://github.com/user-attachments/assets/2ff6b1c1-5723-4159-8c10-2f56223d9dbf" width="500" height="260" alt="Spark screenshot"/>
-      </a>
+        <img src="https://github.com/user-attachments/assets/7b5296d8-6b3f-49a9-9a9c-b247748c62dc" width="500" height="260" alt="Spark"/>
+        </a>
       <h3> SPARK</h3> <p> <a href="https://github.com/Lina-Z1/spark">
        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
        <a href="">
