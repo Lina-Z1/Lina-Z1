@@ -110,7 +110,7 @@
     <h3> Sky Weather</h3> <p> <a href="https://github.com/Lina-Z1/Sky-Weather">
        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
        <a href="https://skyweathers.netlify.app/"><img src="https://img.shields.io/badge/Visit_Website-2F81F7?style=flat-square&logo=vercel&logoColor=white"/>
-      <p>Bento-grid weather dashboard with glassmorphism, live geolocation, and a real-time clock.</p>
+      <p>Weather website   shows real-time weather data like temperature, humidity, wind speed, cloud conditions, and local time by Integrating Weather API.  </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/WeatherAPI-EB6E4B?style=flat-square&logo=weatherapi&logoColor=white"/>
