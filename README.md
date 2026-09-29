@@ -122,7 +122,7 @@
             </a>
      <h3>  Tableau Portfolio</h3> <p> 
        <a href="https://public.tableau.com/app/profile/lina.z7182/vizzes"><img src="https://img.shields.io/badge/Visit_Website-2F81F7?style=flat-square&logo=vercel&logoColor=white"/>
-      <p>Tableau dashboards and visualizations that turn raw data into clear, interactive, decision-ready insights.</p>
+      <p>Interactive Tableau dashboards that turn raw data into clear, decision-ready insights, from data cleaning to polished, explorable visuals.</p>
       <p>
        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
       </p>
